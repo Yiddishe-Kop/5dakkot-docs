@@ -5,6 +5,15 @@ position: 999
 category: updates
 ---
 
+## Tuesday 26/01/2021
+
+<alert type="warning">
+
+Please switch to Hebrew to see all updates.
+I don't have time to do both languages.
+
+</alert>
+
 ## Monday 25/01/2021
 
 ### Customer Balance
