@@ -5,9 +5,6 @@ export default theme({
     primaryColor: '#ffad1f'
   },
   loading: { color: '#ffad1f' },
-  css: [
-    './css/custom.css'
-  ],
   i18n: {
     locales: () => [{
       code: 'en',

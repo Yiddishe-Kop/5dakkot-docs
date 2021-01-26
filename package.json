@@ -10,7 +10,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@yiddishe-kop/content-theme-docs": "^0.8.6",
+    "@yiddishe-kop/content-theme-docs": "^0.8.8",
     "nuxt": "^2.14.12"
   }
 }
