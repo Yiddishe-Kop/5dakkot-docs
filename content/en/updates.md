@@ -1,8 +1,9 @@
 ---
-title: Cart
+title: עדכונים
 description: 'Using the shopping cart'
 position: 4
-category: Guide
+category: עדכונים
+badge: 'מתעדכן'
 ---
 
 ## Getting the Cart

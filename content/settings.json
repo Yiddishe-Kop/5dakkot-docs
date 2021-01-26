@@ -1,9 +1,10 @@
 {
-  "title": "5Dakkot Docs",
+  "title": "מסמכי תיעוד 5 דקות",
   "url": "docs.5dakkot.yiddishe-kop.com",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "Yiddishe-Kop/laravel-commerce"
+  "github": "Yiddishe-Kop/5dakkot-docs",
+  "defaultDir": ""
 }

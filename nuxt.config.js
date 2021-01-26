@@ -1,4 +1,4 @@
-import theme from '@nuxt/content-theme-docs'
+import theme from '@yiddishe-kop/content-theme-docs'
 
 export default theme({
   docs: {
@@ -21,11 +21,7 @@ export default theme({
       name: 'עברית'
     }],
     defaultLocale: 'he',
-    langDir: '../../../../i18n/'
   },
-  plugins: [
-    '../../../../plugins/i18n.client.js'
-  ],
   pwa: {
     manifest: {
       name: '5Dakkot Docs',
@@ -35,11 +31,6 @@ export default theme({
     },
     meta: {
       twitterCard: 'summary_large_image',
-    }
-  },
-  googleFonts: {
-    families: {
-      Heebo: true
     }
   },
 })

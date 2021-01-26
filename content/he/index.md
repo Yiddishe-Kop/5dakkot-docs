@@ -7,8 +7,7 @@ position: 1
 category: ''
 ---
 
-<img src="/preview.png" class="dark-img" width="1280" height="640" alt=""/>
-<img src="/preview-light.png" class="light-img" width="1280" height="640" alt=""/>
+<img src="/preview.png" width="1280" height="640" alt=""/>
 
 קודם כל, ברוכים הבאים למסמכי תיעוד של מערכת ניהול חנות 5דקות.
 
@@ -20,16 +19,17 @@ category: ''
 
 </alert>
 
-[Laravel Commerce](https://github.com/Yiddishe-Kop/laravel-commerce) is an ecommerce package for Laravel with a simple and expressive API.
+## פיצ׳רים
 
-## Features
+המערכת שלנו כוללת בתוכה את הפיצקרים הבאים (רשימה חלקית):
 
-This package offers the following features:
+<list :items="['מעקב מלאי', 'מבצעים', 'יתרה ללקוח', 'הזמנות מספקים', 'מעקב משלוחים']" icon="IconCheckCircle"></list>
 
-<list :items="['מעקב מלאי', 'הזמנות מספקים', 'מעקב משלוחים']" icon="IconCheckCircle"></list>
+## אודות
 
-This package only implements the backend logic, and leaves you with full control over the frontend.
+מערכת זה פותח ע״י מפתח חרדי עם ״יידישע קאפ״. אנחנו מפתחים מערכות ייעודיות מאפס במיוחד לצרכים של הלקוחות שלנו. רוצה לחדד את הראש היהודי שלך? בקר [באתר שלנו](https://next.yiddishe-kop.com), או קרא את ה[מאמרים שלנו](https://next.yiddishe-kop.com/articles) בנושאים מעניינים בסוגיות העמוקות של תכנות 💡. בטח תרצו לקרוא על [הסיפור שהיה לי עם הממשלה האירני](https://next.yiddishe-kop.com/articles/pr-denied-by-iranian-law)...
 
-Contributions are always welcome!
+אוקיי, מספיק שיווק עצמית. 😀
+
 
 <p class="flex items-center">תיהנו מהתיעוד בממשק כהה ובהיר:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>

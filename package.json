@@ -1,6 +1,6 @@
 {
-  "name": "laravel-commerce-docs",
-  "description": "An open source plug & play ecommerce package for Laravel",
+  "name": "5dakkot-docs",
+  "description": "Documentation for 5Dakkot",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.8.2",
+    "@yiddishe-kop/content-theme-docs": "^0.8.6",
     "nuxt": "^2.14.12"
   }
 }
