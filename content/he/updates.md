@@ -6,6 +6,47 @@ category: עדכונים
 badge: 'מתעדכן'
 ---
 
+## יום ראשון 31/01/2021
+
+<alert>
+
+אני עייף, ונופל לישון כבר... אז אני רק מעלה את כל הצילומי מסך, ואני מקווה שתבינו מה הולך כאן.
+
+</alert>
+
+### עיירות
+- עיירות: באמצע בנייה
+![](/img/towns.png)
+![](/img/towns-edit.png)
+
+### מיילים ללקוחות
+- מייל באישור הזמנה
+![](/img/order-confirmed-email.png)
+- מייל בסיום ליקוט ותשלום הזמנה
+![](/img/order-paid-email.png)
+
+- בציעת ועריכת הזמנות מהניהול:
+![](/img/create-order.png)
+![](/img/add-customer-to-order.png)
+![](/img/order-add-edit-products.png)
+
+- הצגת סלים בניהול
+![](/img/cart-filter.png)
+
+- שיפורים בכניסת משתמשים
+![](/img/email-taken.png)
+![](/img/reset-password.png)
+![](/img/login-to-existing-account.png)
+
+### תשלום באמצעות יתרת זכות
+
+- תשלום באמצעות יתרה
+![](/img/gateway-balance.png)
+
+- הגדרת תשלום ביתרה לכל לקוח
+![](/img/max-credit-spend.png)
+
+
 ## ליל שישי 29/01/2021
 
 ### המון שיפורים בליקוט
