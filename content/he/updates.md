@@ -6,6 +6,68 @@ category: עדכונים
 badge: 'מתעדכן'
 ---
 
+## יום שישי 05/03/2021
+
+<alert>
+
+יש עוד, בינתיים אני מעלה את אלו.
+
+</alert>
+
+### הערות
+
+אפשרות ללקוחות להוסיף הערות להזמנה:
+![](/img/notes-add.png)
+![](/img/notes-checkout.png)
+הצגת ההערות בפרטי ההזמנה:
+![](/img/notes-show.png)
+הצגת ההערות במסך הליקוט:
+![](/img/notes-icon.png)
+![](/img/notes-view-packing.png)
+
+
+### באנר - הודעה ללקוחות
+
+בהגדרות: הפעלת הבאנר, ותוכן ההודעה לשתי השפות:
+![](/img/banner-settings.png)
+הבאנר מוצג באופן לא מציק, ובלחיצה על X (סגירה) ישאר סגור ל24 שעות. 👌
+![](/img/banner-message.png)
+
+### דוחות להנהלת חשבונות
+![](/img/reports-accounting.png)
+
+### הזמנה דרך המייל
+קבלת קטלוג אוטומטי למייל
+![](/img/email-catalogue.png)
+אפליקציה שעובד אופליין ליצירת הזמנה
+![](/img/offline-app.png)
+אישור קליטת ההזמנה במייל
+![](/img/email-conf.png)
+הצגת ההזמנה בניהול:
+![](/img/mailed-in-status.png)
+![](/img/mailed-in.png)
+
+### שיוך קופון למשתמשים
+![](/img/coupon-user.png)
+
+### מחשבון מחירים
+![](/img/price-calc.png)
+
+### כרטיסים נשמרים
+![](/img/saved-cards.png)
+![](/img/saved-card-tooltip.png)
+![](/img/saved-cards-admin.png)
+
+### תודה שהזמנת!
+![](/img/confetti-2.png)
+![](/img/confetti-3.png)
+
+### התראת מלאי בצ׳קאאוט
+![](/img/not-enough-in-stock.png)
+![](/img/not-in-stock.png)
+
+
+
 ## יום ראשון 31/01/2021
 
 <alert>
